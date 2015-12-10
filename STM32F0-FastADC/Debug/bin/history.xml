@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<history>
+   <processor signature="4.9.3 -mcpu=cortex-m0 -mthumb -g -nostartfiles -Map=STM32F0-FastADC.map -O0 --gc-sections -LC:\CooCox\CoIDE\configuration\ProgramData\STM32F0-FastADC -TC:\CooCox\CoIDE\configuration\ProgramData\STM32F0-FastADC/arm-gcc-link.ld -g">
+      <target file="STM32F0-FastADC.elf" lastModified="1518cf7aeab">
+         <source file="..\obj\stm32f0xx_rcc.o" lastModified="1518cf78b50"/>
+         <source file="..\obj\stm32f0xx_adc.o" lastModified="1518cf78dce"/>
+         <source file="..\obj\main.o" lastModified="1518cf79018"/>
+         <source file="..\obj\startup_stm32f0xx.o" lastModified="1518cf79156"/>
+         <source file="..\obj\stm32f0xx_dma.o" lastModified="1518cf79485"/>
+         <source file="..\obj\system_stm32f0xx_temp.o" lastModified="1518cf7969c"/>
+         <source file="..\obj\stm32f0xx_gpio.o" lastModified="1518cf79922"/>
+         <source file="..\obj\stm32f0xx_tim.o" lastModified="1518cf79cd6"/>
+         <source file="..\obj\stm32f0xx_syscfg.o" lastModified="1518cf79ed8"/>
+         <source file="..\obj\stm32f0xx_misc.o" lastModified="1518cf7a152"/>
+      </target>
+   </processor>
+</history>
